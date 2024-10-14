@@ -1,5 +1,5 @@
 package bean;
-
+//modified for 2R7
 public class User {
 
 	private int id;
